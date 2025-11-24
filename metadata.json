@@ -1,0 +1,9 @@
+{
+  "name": "Copy of SAT.uz - Ultimate AI Learning Platform",
+  "description": "The world's most advanced AI-powered SAT preparation platform. Features 3000-layer core architecture, multi-language voice agents, and real-time IoT integration.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
